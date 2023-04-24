@@ -1,0 +1,4 @@
+questionDetail,perQuestionMark,questionTypeId,questionLavelId,questionCategoryId,optionA,optionB,optionC,optionD,optionE,correctOption,answerExplanation
+Which one is Capital city of Australia?,1,1,1,2,Sydney,Canebarre,Auckland,None of above,,Canebarre,
+Euro 2004 won by?,1,1,1,2,Italy,Germany,Greece,,,Greece,
+Write an opinion about EURO 2020,5,2,2,2,,,,,,,
